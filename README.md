@@ -31,3 +31,6 @@ GE overhang clearing — GE is expected to fully exit its stake by 2026, removin
 | Base | $79.91 | +31.0% | 50% |
 | Bear | $55.64 | -8.8% | 25% |
 | **Weighted** | | **+38.5%** | |
+
+
+This pitch can be downloaded, by clicking raw.
